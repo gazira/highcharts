@@ -1194,7 +1194,7 @@ pathAnim = {
 			}
 		}
 	});
-}(win.jQuery));
+}(require('jquery')));
 
 
 // check for a custom HighchartsAdapter defined prior to this file
