@@ -1,0 +1,8 @@
+{
+    "name": "Highcharts",
+    "version": "4.0.3",
+    "main": "js/highcharts.src.js",
+    "dependencies": {
+        "component/jquery": "1.0.0"
+    }
+}
